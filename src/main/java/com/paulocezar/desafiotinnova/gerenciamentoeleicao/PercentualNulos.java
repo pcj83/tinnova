@@ -1,4 +1,4 @@
-package com.paulocezar.desafiotinnova.electionmanagement;
+package com.paulocezar.desafiotinnova.gerenciamentoeleicao;
 
 public class PercentualNulos implements PercentualStrategy {
     @Override
